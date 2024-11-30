@@ -6,3 +6,5 @@ keras_his_viz_ML_class_Neural_Net_scratch.ipynb, this notebook is updated with t
 cows_feat.txt is the input data file.
 
 first_scratch_report.pdf  is the description of the model, focusing the big pic of the pipeline. 
+
+For class students: If you are my colleague from my sequence alignment class and have confusion or any problem with your research data set then email me (utsav.lamichhane@gmail.com). If you have coding problem meet me (second floor, Rhodes building). Bioinformatics undergrad: meet (after the class on thrusday).
